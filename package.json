@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maukka76/OpenshiftTemplate.git"
+    "url": "git+https://github.com/thiltunen78/OpenshiftTemplate.git"
   },
-  "author": "Markus Veijola",
+  "author": "Tero Hiltunen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maukka76/OpenshiftTemplate/issues"
+    "url": "https://github.com/thiltunen78/OpenshiftTemplate/issues"
   },
-  "homepage": "https://github.com/maukka76/OpenshiftTemplate#readme",
+  "homepage": "https://github.com/thiltunen78/OpenshiftTemplate#readme",
   "dependencies": {
     "express": "^4.13.3",
     "mongoose": "^4.3.3"
