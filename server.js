@@ -4,7 +4,7 @@ var mongoose = require('mongoose');
 var app = express();
 
 //Configure mongodb
-var db_name = 'template';
+var db_name = 'teesti';
 mongodb_connection_string = 'mongodb://127.0.0.1:27017/' + db_name;
 
 //take advantage of openshift env vars when available:
