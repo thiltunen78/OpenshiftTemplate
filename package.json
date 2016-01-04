@@ -1,23 +1,24 @@
 {
   "name": "template",
-  "version": "1.0.0",
-  "description": "just an template for openshift node/mongo apps",
+  "version": "0.0.1",
+  "description": "Just an template for openshift node/mongo apps",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiltunen78/OpenshiftTemplate.git"
+    "url": "git+https://github.com/maukka76/OpenshiftTemplate.git"
   },
-  "author": "tero hiltunen",
+  "author": "Markus Veijola",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thiltunen78/OpenshiftTemplate/issues"
+    "url": "https://github.com/maukka76/OpenshiftTemplate/issues"
   },
-  "homepage": "https://github.com/thiltunen78/OpenshiftTemplate#readme",
+  "homepage": "https://github.com/maukka76/OpenshiftTemplate#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "mongoose": "^4.3.3"
   }
 }

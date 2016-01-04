@@ -1,2 +1,2 @@
 # OpenshiftTemplate
-Template for using openshift cloud services with node and mongodb
+Template for using openshift cloud serveices with node and mongodb
